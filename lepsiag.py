@@ -9,7 +9,7 @@ ACCEL_Y=0.1
 ACCEL_X=0.07
 poziciar = random.randint(0, 350)
 somarina=[]
-
+#pisem random komentar
 for m in range(poziciar,poziciar+50):
     somarina.append(m)
 def random():
